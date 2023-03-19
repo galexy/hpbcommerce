@@ -64,7 +64,7 @@ const ProductSidebar: FC<ProductSidebarProps> = ({ product, className }) => {
       />
       <div className="flex flex-row justify-between items-center">
         <Rating value={4} />
-        <div className="text-accent-6 pr-1 font-medium text-sm">36 reviews</div>
+        {/* <div className="text-accent-6 pr-1 font-medium text-sm">36 reviews</div> */}
       </div>
       <div>
         {error && <ErrorMessage error={error} className="my-5" />}
