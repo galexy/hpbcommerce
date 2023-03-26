@@ -22,9 +22,10 @@ const Navbar: FC<NavbarProps> = ({ links }) => (
           <Link href="/" className={s.logo} aria-label="Logo">
             <Logo />
           </Link>
+          <h2 className={s.name}>Half Price Bricks</h2>
           <nav className={s.navMenu}>
-            <Link href="/search" className={s.link}>
-              All
+            <Link href="/catalog" className={s.link}>
+              Available Sets
             </Link>
             {links?.map((l) => (
               <Link href={l.href} key={l.href} className={s.link}>

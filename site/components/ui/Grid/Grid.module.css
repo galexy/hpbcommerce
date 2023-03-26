@@ -24,7 +24,7 @@
 
   &.filled {
     & > *:nth-child(6n + 1) {
-      @apply bg-violet;
+      /* @apply; */
     }
 
     & > *:nth-child(6n + 2) {
@@ -32,11 +32,11 @@
     }
 
     & > *:nth-child(6n + 3) {
-      @apply bg-pink;
+      /* @apply; */
     }
 
     & > *:nth-child(6n + 6) {
-      @apply bg-cyan;
+      /* @apply; */
     }
   }
 }
@@ -50,7 +50,7 @@
 
   &.filled {
     & > *:nth-child(6n + 1) {
-      @apply bg-violet;
+      /* @apply bg-violet; */
     }
 
     & > *:nth-child(6n + 2) {
@@ -58,11 +58,11 @@
     }
 
     & > *:nth-child(6n + 3) {
-      @apply bg-pink;
+      /* @apply bg-pink; */
     }
 
     & > *:nth-child(6n + 6) {
-      @apply bg-cyan;
+      /* @apply bg-cyan; */
     }
   }
 }
