@@ -413,6 +413,48 @@
           ]
         }
       ]
+    },
+    {
+      "id": "Z2lkOi8vc2hvcGlmeS9Qcm9ksdWN0LzU0NDczMjUwMjQ0MjA=",
+      "name": "STAR WARS First Order Tie Fighter Microfighter - Set #75194",
+      "vendor": "Lego",
+      "path": "/75194",
+      "slug": "75194",
+      "price": { "value": 5, "currencyCode": "USD" },
+      "description": "Recreate action-packed space battles with the LEGO® Star Wars 75194 First Order TIE Fighter Microfighter. This miniature model kit features 2 flick missiles, space to seat the included First Order TIE Pilot minifigure with his blaster pistol, and red detailing from the craft featured in the Star Wars Episode VII: The Force Awakens movie.",
+      "descriptionHtml": "Recreate action-packed space battles with the LEGO® Star Wars 75194 First Order TIE Fighter Microfighter. This miniature model kit features 2 flick missiles, space to seat the included First Order TIE Pilot minifigure with his blaster pistol, and red detailing from the craft featured in the Star Wars Episode VII: The Force Awakens movie.",
+      "images": [
+        {
+          "url": "/assets/75194.jpg",
+          "altText": "Dropship",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/75194_alt3.jpg",
+          "altText": "Dropship",
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "url": "/assets/75194_alt4.jpg",
+          "altText": "Dropship",
+          "width": 1000,
+          "height": 1000
+        }
+      ],
+      "variants": [],
+      "options": [
+        {
+          "id": "condition",
+          "displayName": "Condition",
+          "values": [
+            {
+              "label": "Used"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
